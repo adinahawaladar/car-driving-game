@@ -146,23 +146,3 @@ End Class
 
 
 
-Summary of the Code:
-The game consists of a road with moving obstacles and a controllable car.
-The road and obstacles are represented by PictureBoxes, and their movement is handled by timers (RoadMover, RacerMover1, RacerMover2, RacerMover3).
-The player controls the car using the left and right arrow keys.
-As the game progresses, the speed of the car and obstacles increases.
-The game ends if the car collides with any of the obstacles.
-The player can restart the game by clicking a button (Button1).
-How to Play:
-Use the right and left arrow keys to move the car horizontally, avoiding the moving obstacles.
-The goal is to survive as long as possible without crashing into any obstacles.
-As you progress, the speed of the game increases, making it more challenging.
-Your score increases as you successfully navigate past obstacles.
-If the car collides with any obstacle, the game ends, and you can restart by clicking the restart button.
-To play the game:
-
-Run the application.
-Use the right and left arrow keys to control the car.
-Avoid colliding with the moving obstacles.
-Survive as long as possible and try to achieve the highest score possible.
-If the car crashes, click the restart button to play again.
